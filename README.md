@@ -43,7 +43,7 @@ Sales Amount by Due Date: A time-intelligence measure to track revenue against f
 
 **Sales Report.pbix:** The interactive Power BI project file (requires Power BI Desktop to open).
 
-AdventureWorks Sales.xlsx: The source data containing Sales, Products, Customers, and Territory details.
+**AdventureWorks Sales.xlsx:** The source data containing Sales, Products, Customers, and Territory details.
 
 ## 🔧 How to View This Project
 
