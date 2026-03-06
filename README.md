@@ -70,5 +70,10 @@ Change the Source path to point to the AdventureWorks Sales.xlsx file on your lo
 **Business Intelligence:** Converting raw data into strategic business recommendations.
 
 ## Connect with Me
-If you have questions about the DAX logic or the modeling approach used in this project, feel free to reach out via
+
+Feel free to connect if you have feedback or questions!
+
+E-mail : mdmuntaziralam15@gmail.com
+
+LinkedIn : www.linkedin.com/in/md-muntazir-alam-74a9433a0
 
