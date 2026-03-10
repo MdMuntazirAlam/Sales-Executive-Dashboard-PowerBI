@@ -1,6 +1,9 @@
 # Sales-Executive-Dashboard-PowerBI
 ## An interactive Power BI dashboard analyzing global sales performance and regional trends
 
+<img width="620" height="354" alt="image" src="https://github.com/user-attachments/assets/dccc4044-7fde-4eac-96f5-081b6f46165e" />
+
+
 ## 📊 Project Overview
 
 This project features a comprehensive Executive Sales Report built in Power BI Desktop. It transforms the classic AdventureWorks dataset into a strategic tool for monitoring revenue, order volume, and regional market share.
